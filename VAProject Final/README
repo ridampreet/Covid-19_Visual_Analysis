@@ -1,0 +1,12 @@
+Reference of the app. The structure of this app is based on code from this git repo:-
+https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Deploy_App_to_Web/Multipage_App
+https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Other/Dash_Introduction/intro.py
+https://plotly.com/python/line-charts/
+https://plotly.com/python/gauge-charts/
+https://www.kaggle.com/angywufeng/covid-19-s-impacts-regression-model-eda
+https://www.kaggle.com/mauromauro/learning-in-cyberspace-a-story-of-pandemic-times
+#citation for Side bar : https://dash-bootstrap-components.opensource.faculty.ai/examples/simple-sidebar/
+To run this app run index.py
+
+
+The preprocessing has been done using the notebooks provided in Preprocessing Notebooks folder, we are directly accessing the Preprocessed datasets obtained from those notebooks
