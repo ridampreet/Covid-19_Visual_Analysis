@@ -1,3 +1,8 @@
+PLEASE NOTE THAT IN ORDER TO ACCESS THE DATASETS, THE ZIP FOLDER OF DATASETS MUST BE DECOMPRESSED. THIS WAS DONE BECAUSE OF THE SIZE LIMIT IMPOSED BY GITHUB
+
+
+
+
 Reference of the app. The structure of this app is based on code from this git repo:-
 https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Deploy_App_to_Web/Multipage_App
 https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Other/Dash_Introduction/intro.py
